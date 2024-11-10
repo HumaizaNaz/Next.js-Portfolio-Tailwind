@@ -8,22 +8,22 @@ const Skills = () => {
           <h2 className="text-4xl md:text-5xl text-[#FF9966]">Technologies I Work with</h2>
 
           <ul className="text-gray-500 pt-2 flex flex-col gap-2">
-            <b className="text-[#FF9966]">Skills & Expertise Web Development</b>
+            <b className="text-black">Skills & Expertise Web Development</b>
             <li>
               Proficient in JavaScript, TypeScript, HTML5, CSS3,React, Next.js with expertise in frameworks like  Tailwind CSS to build responsive and dynamic web interfaces.
             </li>
 
-            <b className="text-[#FF9966]">Backend Development</b>
+            <b className="text-black">Backend Development</b>
             <li>
               Experienced in using Node.js and npm for server-side development, enabling efficient, scalable applications.
             </li>
 
-            <b className="text-[#FF9966]">Cybersecurity Fundamentals</b>
+            <b className="text-black">Cybersecurity Fundamentals</b>
             <li>
               Completed a foundational course in cybersecurity, equipping me with essential knowledge of protecting systems, networks, and data.
             </li>
 
-            <b className="text-[#FF9966]">Emerging Technologies</b>
+            <b className="text-black">Emerging Technologies</b>
             <li>
               Currently expanding expertise through courses in Artificial Intelligence and Metaverse technologies, offered at Governor House, to stay at the forefront of tech innovation.
             </li>

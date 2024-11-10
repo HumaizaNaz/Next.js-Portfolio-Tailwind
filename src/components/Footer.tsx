@@ -5,7 +5,7 @@ import { IoMdMail } from 'react-icons/io'; // another icon library
 
 const Footer = () => {
   return (
-    <div className="mt-8 bg-[#ff7f50] pt-9">
+    <div className="mt-8 bg-black pt-9">
       <div className="mx-auto w-full max-w-[1166px] px-4 xl:px-0">
         <div className="flex flex-col justify-between sm:px-[18px] md:flex-row md:px-10">
           <div className="md:w-[316px]">

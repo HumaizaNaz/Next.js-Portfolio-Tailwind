@@ -49,7 +49,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="w-full px-4 py-2 text-white bg-[#ff7f50] shadow-md lg:px-8 lg:py-3">
+    <nav className="w-full px-4 py-2 text-white bg-black shadow-md lg:px-8 lg:py-3">
       <div className="container flex flex-wrap items-center justify-between mx-auto text-white">
         <Link
           href="#"
