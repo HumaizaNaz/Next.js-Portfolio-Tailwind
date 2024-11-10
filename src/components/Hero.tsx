@@ -1,7 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-
-
+import Link from "next/link"
 
 const Hero = () => {
   return (<div className="bg-gradient-to-b from-black to-gray-900 " >
@@ -32,7 +31,7 @@ const Hero = () => {
                       />
                 </svg>
               </button>
-              <button 
+              <Link href="https://cv-resume-rose.vercel.app/"><button 
                 aria-label="Resume Button" 
                 className="flex items-center gap-2 px-6 py-3 rounded-2xl bg-white font-semibold text-black"
               >
@@ -43,6 +42,7 @@ const Hero = () => {
                       />
                 </svg>
               </button>
+              </Link>
             </div>
           </div>
         </div>

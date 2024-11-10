@@ -18,10 +18,10 @@ const Footer = () => {
             Welcome to my portfolio! I am a web developer with expertise in HTML, CSS, Tailwind CSS, and Next.js. I create responsive, dynamic, and accessible websites that provide seamless user experiences. Whether it is building a personal portfolio or a complex web application, my goal is always to deliver high-quality results with attention to detail.
             </p>
             <div className="mt-[18px] flex gap-4">
-              <Link className="hover:scale-110" target="_blank" href="#">
+              <Link className="hover:scale-110" target="_blank" href="https://www.facebook.com/profile.php?id=61567726929622">
                 <FaFacebookF size={36} className="text-white" />
               </Link>
-              <Link className="hover:scale-110" target="_blank" href="/">
+              <Link className="hover:scale-110" target="_blank" href="https://www.linkedin.com/in/humaiza-naz/">
                 <FaLinkedinIn size={36} className="text-white" />
               </Link>
               <Link className="hover:scale-110" target="_blank" href="/">
@@ -30,7 +30,7 @@ const Footer = () => {
               <Link className="hover:scale-110" target="_blank" href="">
                 <FaTwitter size={36} className="text-white" />
               </Link>
-              <Link className="hover:scale-110" target="_blank" href="https://www.youtube.com/">
+              <Link className="hover:scale-110" target="_blank" href="https://www.youtube.com/@knowhowcoding">
                 <FaYoutube size={36} className="text-white" />
               </Link>
             </div>
